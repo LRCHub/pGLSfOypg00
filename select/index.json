@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "笑い話",
+  "base_artist": "Tani Yuuki",
+  "createdAt": "2026-02-11T00:58:59.355818Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "笑い話",
+      "artist": "Tani Yuuki",
+      "has_synced": true,
+      "path": "select/01_笑い話_Tani_Yuuki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "笑い話 - Waraibanashi",
+      "artist": "EISYU",
+      "has_synced": true,
+      "path": "select/02_笑い話_-_Waraibanashi_EISYU.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "笑い話",
+      "artist": "映秀。",
+      "has_synced": true,
+      "path": "select/03_笑い話_映秀。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "笑い話",
+      "artist": "Tani Yuuki",
+      "has_synced": false,
+      "path": "select/pl_01_笑い話_Tani_Yuuki.txt"
+    }
+  ]
+}
